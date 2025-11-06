@@ -56,7 +56,3 @@ The app will automatically deploy! 🚀
 🎓 B.Tech in Computer Science (AI & ML), Aditya Engineering College
 💼 Aspiring Software Engineer | AI & ML Enthusiast
 📧 Email: tejaswisiram2604@gmail.com
-
-🔗 LinkedIn
-
-🐙 GitHub
